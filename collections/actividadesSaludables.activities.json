@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "664b09b1040af64e57e0a249"
+  },
+  "id": 1,
+  "title": "Título de la actividad",
+  "coverImageUrl": "../../../../assets/ejemploimagen.png",
+  "date": "2024-02-03T00:00:00.000Z",
+  "startTime": "12:30",
+  "duration": 2,
+  "schoolId": "1",
+  "academicYear": "2023/2024",
+  "teachingType": "Infantil",
+  "curso": "1º de infantil",
+  "attendeeCount": 30,
+  "description": "Descripción detallada de la actividad...",
+  "validation": false,
+  "discard": true
+},
+{
+  "_id": {
+    "$oid": "664b09b1040af64e57e0a24a"
+  },
+  "id": 2,
+  "title": "Título de la actividad 2",
+  "coverImageUrl": "../../../../assets/ejemploimagen.png",
+  "date": "2024-02-03T00:00:00.000Z",
+  "startTime": "12:30",
+  "duration": 2,
+  "schoolId": "1",
+  "academicYear": "2023/2024",
+  "teachingType": "Primaria",
+  "curso": "1º de infantil",
+  "attendeeCount": 30,
+  "description": "Descripción detallada de la actividad...",
+  "validation": true,
+  "discard": false
+},
+{
+  "_id": {
+    "$oid": "664b09b1040af64e57e0a24b"
+  },
+  "id": 3,
+  "title": "Ms",
+  "coverImageUrl": "../../../../assets/ejemploimagen.png",
+  "date": "2024-02-03T00:00:00.000Z",
+  "startTime": "17:23",
+  "duration": 2,
+  "schoolId": "1",
+  "academicYear": "2024/2025",
+  "teachingType": "Infantil",
+  "curso": "1º de infantil",
+  "attendeeCount": 51,
+  "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+  "validation": false,
+  "discard": false
+},
+{
+  "_id": {
+    "$oid": "664b09b1040af64e57e0a24c"
+  },
+  "id": 4,
+  "title": "Rev",
+  "coverImageUrl": "../../../../assets/ejemploimagen.png",
+  "date": "2024-02-04T00:00:00.000Z",
+  "startTime": "12:39",
+  "duration": 19,
+  "schoolId": "2",
+  "academicYear": "2023/2024",
+  "teachingType": "Bachillerato",
+  "curso": "1º de Bachillerato",
+  "attendeeCount": 42,
+  "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+  "validation": false,
+  "discard": false
+},
+{
+  "_id": {
+    "$oid": "664b09b1040af64e57e0a24d"
+  },
+  "id": 5,
+  "title": "Dr",
+  "coverImageUrl": "../../../../assets/ejemploimagen.png",
+  "date": "2024-02-05T00:00:00.000Z",
+  "startTime": "13:12",
+  "duration": 8,
+  "schoolId": "3",
+  "academicYear": "2022/2023",
+  "teachingType": "Bachillerato",
+  "curso": "1º de Bachillerato",
+  "attendeeCount": 12,
+  "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+  "validation": false,
+  "discard": false
+},
+{
+  "_id": {
+    "$oid": "664b09b1040af64e57e0a24e"
+  },
+  "id": 6,
+  "title": "Mrs",
+  "coverImageUrl": "../../../../assets/ejemploimagen.png",
+  "date": "2024-02-06T00:00:00.000Z",
+  "startTime": "16:42",
+  "duration": 18,
+  "schoolId": "2",
+  "academicYear": "2022/2023",
+  "teachingType": "Bachillerato",
+  "curso": "1º de Bachillerato",
+  "attendeeCount": 59,
+  "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+  "validation": false,
+  "discard": false
+},
+{
+  "_id": {
+    "$oid": "664b0dbbfea7553221349418"
+  },
+  "title": "prueba 2",
+  "date": "2024-05-20T08:44:33.685Z",
+  "startTime": "12:12",
+  "duration": 3,
+  "schoolId": 2,
+  "teachingType": "Infantil",
+  "curso": "tercero",
+  "attendeeCount": 20,
+  "description": "fwuehfhewrf",
+  "id": 7,
+  "academicYear": "2023/2024",
+  "validation": false,
+  "discard": false,
+  "coverImageUrl": "../../../../assets/ejemploimagen.png"
+}]

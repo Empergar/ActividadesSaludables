@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "664b0892040af64e57e0a244"
+  },
+  "id": 2,
+  "name": "Maestro Ávila",
+  "coordinator": "Loles Martín",
+  "address": "C Fonseca, 29",
+  "city": "Salamanca",
+  "postalCode": "37008",
+  "province": "Salamanca",
+  "email": "email@ejemplo.es",
+  "phone": "123456789",
+  "teachingLevels": [
+    "Infantil",
+    "Primaria"
+  ],
+  "startDate": "2022-01-01T00:00:00.000Z",
+  "endDate": "2023-01-01T00:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "664b0892040af64e57e0a245"
+  },
+  "id": 3,
+  "name": "Lucia de Medrano",
+  "coordinator": "Maria Pérez",
+  "address": "Av Filiberto Villalobos, 97",
+  "city": "Salamanca",
+  "postalCode": "37008",
+  "province": "Salamanca",
+  "email": "email@ejemplo.es",
+  "phone": "123456789",
+  "teachingLevels": [
+    "Secundaria",
+    "Bachillerato"
+  ],
+  "startDate": "2022-01-01T00:00:00.000Z",
+  "endDate": "2023-01-01T00:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "664b0892040af64e57e0a246"
+  },
+  "id": 4,
+  "name": "Fray Luis de León",
+  "coordinator": "Jose Maria",
+  "address": "Av de los Maristas",
+  "city": "Salamanca",
+  "postalCode": "37008",
+  "province": "Salamanca",
+  "email": "email@upsa.es",
+  "phone": "123456789",
+  "teachingLevels": [
+    "Secundaria"
+  ],
+  "startDate": "2021-01-01T00:00:00.000Z",
+  "endDate": "2022-01-01T00:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "664b0d30fea7553221349417"
+  },
+  "id": 5,
+  "name": "centro de prueba",
+  "coordinator": "emma",
+  "address": "una calle",
+  "city": "Salamanca",
+  "province": "Salamanca",
+  "postalCode": "12345",
+  "email": "wefw@upsa.es",
+  "phone": "654321234",
+  "teachingLevels": [],
+  "startDate": {
+    "$numberLong": "1716194608915"
+  },
+  "endDate": null
+},
+{
+  "_id": {
+    "$oid": "664b0eb4040af64e57e0a257"
+  },
+  "id": 1,
+  "name": "Manuel Moreno Blanco",
+  "coordinator": "Juan Manuel",
+  "address": "Calle Chica, 8",
+  "city": "Vitigudino",
+  "postalCode": "37210",
+  "province": "Salamanca",
+  "email": "email@ejemplo.es",
+  "phone": "123456789",
+  "teachingLevels": [
+    "Infantil",
+    "Primaria"
+  ],
+  "startDate": "2024-02-04T00:00:00.000Z",
+  "endDate": null
+},
+{
+  "_id": {
+    "$oid": "664b160f1f2565abfa8db3cc"
+  },
+  "id": 6,
+  "name": "ewfwf",
+  "coordinator": "wefefv",
+  "address": "efverv",
+  "city": "verve",
+  "province": "Salamanca",
+  "postalCode": "12345",
+  "email": "12w@sedw.com",
+  "phone": "123456789",
+  "teachingLevels": [
+    "infantil"
+  ],
+  "startDate": {
+    "$numberLong": "1716196879021"
+  },
+  "endDate": null
+},
+{
+  "_id": {
+    "$oid": "664b5e2c84d412867d4c87f1"
+  },
+  "id": 7,
+  "name": "prueba 2",
+  "coordinator": "emma",
+  "address": "wenfenrwgf",
+  "city": "rvbertg",
+  "province": "Almería",
+  "postalCode": "12345",
+  "email": "erfe@upsa.es",
+  "phone": "123455789",
+  "teachingLevels": [
+    "primaria"
+  ],
+  "startDate": {
+    "$numberLong": "1716215340420"
+  },
+  "endDate": "2024-05-15T22:00:00.000Z"
+}]

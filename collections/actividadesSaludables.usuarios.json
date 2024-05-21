@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "664626e095712b96dd3c38d7"
+  },
+  "email": "eperezga@upsa.es",
+  "password": "adminpass",
+  "role": "admin",
+  "name": "Emma",
+  "lastname": "Perez Garcia"
+},
+{
+  "_id": {
+    "$oid": "664626f595712b96dd3c38da"
+  },
+  "email": "eperezgauser@upsa.es",
+  "password": "userpass",
+  "role": "user",
+  "name": "Emma",
+  "lastname": "Perez Garcia"
+}]
